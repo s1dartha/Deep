@@ -2,12 +2,13 @@ streamlit
 
 numpy
 
-tensorflow (esto ya incluye keras)
+tensorflow
 
 matplotlib
 
 graphviz
 
 scikit-learn
+
 
 seaborn
